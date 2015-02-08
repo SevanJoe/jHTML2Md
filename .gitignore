@@ -85,3 +85,7 @@ local.properties
 # PDT-specific
 .buildpath
 >>>>>>> 58ada7143491a3f57f4d586a9c289ef116bc067f
+
+# work directories
+html
+markdown
